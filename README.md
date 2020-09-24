@@ -1,1 +1,1 @@
-# QueueDataStructure
+# DataStructure
